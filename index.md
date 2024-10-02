@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my BEST blog
 ---
 
-The nest content on the internet!
+The best content on the internet!
